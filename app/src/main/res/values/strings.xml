@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Cruising Along</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">com.example.alex.cruisingalong</string>
+    <string name="title_activity_places">PlacesActivity</string>
+
+    <string-array name="titles">
+        <item>Hawkes Bay Scenic Tours</item>
+        <item>Amazing New Zealand</item>
+        <item>Art Deco Trust</item>
+        <item>Bay Heliwork</item>
+        <item>Boutique Horsetreks</item>
+        <item>CityWalksz</item>
+        <item>Cruise Ship Golfing</item>
+        <item>Mohaka Rafting</item>
+        <item>Napier Prison</item>
+        <item>Vines and Views Wine Tours</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Scenic sightseeing tours</item>
+        <item>Self drive itineraries</item>
+        <item>Tour of Napiers Art Deco heritage</item>
+        <item>Helicopter flights in Hawkes Bay</item>
+        <item>Exclusive horse treks for 1 to 5 riders</item>
+        <item>Self guided walking audio tours</item>
+        <item>Golfing excursions for cruise ship passengers</item>
+        <item>Day and multi day rafting trips</item>
+        <item>Tour of this historical sight</item>
+        <item>Wine tasting tours</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>http://www.hbscenictours.co.nz/</item>
+        <item>http://www.amazingnz.com/FoodandWine-English.html</item>
+        <item>http://www.artdeconapier.com/</item>
+        <item>http://www.helicopterrides.co.nz/</item>
+        <item>http://www.boutiquehorsetreks.co.nz/</item>
+        <item>https://www.citywalksz.com</item>
+        <item>http://www.cruiseshipgolfing.com/</item>
+        <item>http://mohakarafting.com/</item>
+        <item>http://www.napierprison.com/</item>
+        <item>http://www.vinesandviewswinetours.co.nz/</item>
+    </string-array>
+
+    <string name="feedbacktype1">National</string>
+    <string name="feedbacktype2">International</string>
+    <string name="feedbacktype3">Hawkes Bay Scenic Tours</string>
+    <string name="feedbacktype4">Amazing New Zealand</string>
+    <string name="feedbacktype5">Art Deco Trust</string>
+    <string name="feedbacktype6">Bay Heliwork</string>
+    <string name="feedbacktype7">Boutique Horsetreks</string>
+    <string name="feedbacktype8">CityWalksz</string>
+    <string name="feedbacktype9">Cruise Ship Golfing</string>
+    <string name="feedbacktype10">Mohaka Rafting</string>
+    <string name="feedbacktype11">Napier Prison</string>
+    <string name="feedbacktype12">Vines and Views Wine Tours</string>
+
+
+    <string name="feedbacktitle">Enter feedback details</string>
+    <string name="feedbackname">Your Name</string>
+    <string name="feedbackemail">Your Email</string>
+    <string name="feedbackbody">Feedback Details</string>
+    <string name="feedbackresponse">Would you like an email response?</string>
+    <string name="feedbackbutton">Send Feedback</string>
+    <string name="feedbacktype">Submit Feedback As:</string>
+    <string name="feedbacktour">Select Tour:</string>
+
+    <string-array name="feedbacktypelist">
+        <item>@string/feedbacktype1</item>
+        <item>@string/feedbacktype2</item>
+    </string-array>
+
+    <string-array name="feedbacktourlist">
+        <item>@string/feedbacktype3</item>
+        <item>@string/feedbacktype4</item>
+        <item>@string/feedbacktype5</item>
+        <item>@string/feedbacktype6</item>
+        <item>@string/feedbacktype7</item>
+        <item>@string/feedbacktype8</item>
+        <item>@string/feedbacktype9</item>
+        <item>@string/feedbacktype10</item>
+        <item>@string/feedbacktype11</item>
+        <item>@string/feedbacktype12</item>
+    </string-array>
+
+    <string name="hello_world">get the truth. then go.  </string>
+    <string name="action_setting">Setting</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

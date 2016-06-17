@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337973884832",
+    "project_id": "canvas-network-131208"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337973884832:android:934caedb79d1ec07",
+        "android_client_info": {
+          "package_name": "com.example.alex.cruisingalong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337973884832-2oqbq2kk26e20972fhq3j1l6ukq2hdti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alex.cruisingalong",
+            "certificate_hash": "A8C3AA66CA552BDF2D5FB0980716A534D2D6A124"
+          }
+        },
+        {
+          "client_id": "337973884832-mqopntegvoo59om8mdr34s4h38p552lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxaSTQJbACVn0fFpBuOdjCS-xnnVg9jk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
